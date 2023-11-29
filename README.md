@@ -16,7 +16,6 @@ Client Name     | Text      | MARIO ANDRADE
 Balance         | Decimal   | 237.48
 </br>
 
-Review about terminal, main args, and the Scanner class.
 Allow the data to be entered via the terminal, where the user will receive a message requesting specific information, for example:
 Program: "Please enter the Agency number!"
 User: 1021 (then ENTER for the next field)
